@@ -1,0 +1,16 @@
+{
+  "name": "just-dance-twitch-bot",
+  "version": "1.0.0",
+  "description": "A twitch chat bot to pick random songs from the game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GustavoMdancers",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "tmi.js": "^1.8.5"
+  }
+}

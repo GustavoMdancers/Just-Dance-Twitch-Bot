@@ -17,3 +17,5 @@ I already managed to make the bot connect and I have more or less the idea of ho
 - How to store the songs from the games in a efficient way so I can easily update when more gets added
 
 To get the token in order for the bot to work: https://id.twitch.tv/oauth2/authorize?response_type=token+id_token&client_id=[clientID]&redirect_uri=http://localhost&scope=chat%3Aread+chat%3Aedit+channel%3Aread%3Aredemptions+channel%3Amanage%3Apolls+channel%3Aread%3Apolls+openid
+
+.
